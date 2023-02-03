@@ -1,10 +1,5 @@
-# Telegram Views
-Fake Telegram Post Views
-- https://streamable.com/xyw76h 
+2 Hi guys im @DarkhatHacker75 
 
-## Help
+2 This script use to get unlimited telegram views
 
-install requirements
-```
-pip install -r requirements.txt
-```
+3 Enjoy 🥰
