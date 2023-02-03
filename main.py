@@ -5,7 +5,7 @@ from os import system, name
 from threading import Thread, active_count
 from re import search, compile
 
-THREADS = 10000
+THREADS = 1000000
 PROXIES_TYPES = ('http', 'socks4', 'socks5')
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
 REGEX = compile(r"(?:^|\D)?(("+ r"(?:[1-9]|[1-9]\d|1\d{2}|2[0-4]\d|25[0-5])"
@@ -118,7 +118,7 @@ def check_views():
 
 logo = '''
    ~ Telegram Auto Views By [ @DarkhatHacker75 ] ~
-       ~ JOIN MY CHANNEL FOR DAILY AMAZON GIVEAWAYS https://t.me/demonicshop  ~
+       ~ JOIN MY CHANNEL FOR DAILY AMAZING GIVEAWAYS https://t.me/demonicshop  ~
 '''
 
 
